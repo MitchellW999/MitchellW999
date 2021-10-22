@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitchellW999
 - 👀 I’m interested in robotics and aerospace
-- 🌱 I’m currently learning openCV on RaspberrPi
+- 🌱 I’m currently learning openCV on RaspberryPi
 - 📫 How to reach me mitchellw999@gmail.com
 
 <!---
